@@ -8,10 +8,11 @@ jobs:
     runs-on: ubuntu-latest
     name: my build
     steps:
-      - name: Discord Message
+      - name: Send Discord Message
         uses: discord-actions/message@v2
         with:
           webhookUrl: https://discordapp.com/api/webhooks/1316956354786885673/TnLUfOQiSbcjinGjEXP44tQwVosbe8HGv_gviHMyIZYWbWlr4rcTYRDpNk24h2DO7pa5
-          message: helloo
-          username: Pau
-          avatar: https://sm.mashable.com/mashable_sea/photo/default/mm20220106-4-1_b67x.jpg
+          message: "helloo"
+          username: "Pau"
+          avatar: "https://sm.mashable.com/mashable_sea/photo/default/mm20220106-4-1_b67x.jpg"
+
