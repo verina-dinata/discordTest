@@ -12,4 +12,6 @@ jobs:
         uses: discord-actions/message@v2
         with:
           webhookUrl: https://discordapp.com/api/webhooks/1316956354786885673/TnLUfOQiSbcjinGjEXP44tQwVosbe8HGv_gviHMyIZYWbWlr4rcTYRDpNk24h2DO7pa5
-          message: helloooo from verina
+          message: helloo
+          username: Pau
+          avatar: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsea.mashable.com%2Flife%2F20199%2Fthe-story-of-pau-pau-foodpandas-adorable-brand-ambassador&psig=AOvVaw3vp15hhfwRkb89br8NPVHc&ust=1734159239423000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODLod6UpIoDFQAAAAAdAAAAABAE
